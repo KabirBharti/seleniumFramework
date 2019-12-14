@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="KabirProject.AppiumTest" duration-ms="102" started-at="2019-12-12T19:55:33 CST" finished-at="2019-12-12T19:55:33 CST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="102" started-at="2019-12-12T19:55:33 CST" finished-at="2019-12-12T19:55:33 CST">
+      <class name="KabirProject.AppiumTest">
+        <test-method status="PASS" signature="androidTest()[pri:0, instance:KabirProject.AppiumTest@3532ec19]" name="androidTest" duration-ms="12" started-at="2019-12-12T19:55:33 CST" finished-at="2019-12-12T19:55:33 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- androidTest -->
+        <test-method status="PASS" signature="nativeiOSTest()[pri:0, instance:KabirProject.AppiumTest@3532ec19]" name="nativeiOSTest" duration-ms="0" started-at="2019-12-12T19:55:33 CST" finished-at="2019-12-12T19:55:33 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeiOSTest -->
+      </class> <!-- KabirProject.AppiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- KabirProject.AppiumTest -->
+</testng-results>
